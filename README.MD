@@ -1,4 +1,10 @@
 Ethiopia Map Path Finder
+by 
+Abdellah Teshome
+Abdurezak Zeynu
+Biniyam Dagne
+
+
 An agent built with python that will attempt to find the shortest path along roads between two Ethiopian cities.
 Necessary Files
 README.md - This file
