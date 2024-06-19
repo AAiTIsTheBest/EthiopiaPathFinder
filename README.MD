@@ -36,27 +36,7 @@ Adigrat
 Wolaita
 20 Ziway
 
-The start city and goal city must be one of the following:
-Arad
-Bucharest
-Craiova
-Dobreta
-Eforie
-Fagaras
-Giurgiu
-Hirsova
-Iasi
-Lugoj
-Mehadia
-Neamt
-Oradea
-Pitesti
-Rimnicu Vilcea
-Sibiu
-Timisoara
-Urziceni
-Vaslui
-Zerind
+
 
 
 
